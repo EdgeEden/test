@@ -3,6 +3,6 @@ This project is not maintained
 # Website
 www.smmv.net   
 This is a back-up website,lack of anti-spider measure but also lack of resource
-# Furthur release
-Furthur project is lead by TMFfa   
+# Further release
+Further project is lead by TMFfa   
 https://github.com/TMFfa/vmgirls
